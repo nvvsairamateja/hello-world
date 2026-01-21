@@ -8,5 +8,5 @@ we have completed java code deployment successfully.
 
 Have a good Thrusday.....................
 
-<h2> Thank you every one and we will discuss sonarqube and Artifacts today.. (22-08-2024) </h2> 
+<h2> Thank you every one and we will discuss sonarqube and Artifacts Tomorrow.. (22-01-2026) </h2> 
 
